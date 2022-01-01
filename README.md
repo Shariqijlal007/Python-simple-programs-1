@@ -2,13 +2,6 @@
 Here are some simple programs that i've wrote when i was Practicing Python.
 Enjoy!!!
 
-
-
-
-
-
-
-
 1. A program that requests the user to enter the current world population and the current population of the U.S. (or of some other nation of your choice). Store the information in variables of type int. Have the program display the percent that the U.S. (or other nation’s) population is of the world’s population. The output should look something like this: 
 Enter the world's population: 6888 
 Enter the population of the US: 310 
@@ -33,3 +26,4 @@ gold business
 3.8%
 [Hint: Assuming also that you have assigned numbers to the account types starting with personal financial and ending with gold business]. Also give reason of why using switch statement is more appropriate in this problem.
 6. Display the table of a number entered by the user. The range will also be given by the user.
+7. Read the starting value and the ending value. Display the product of the numbers in range.
