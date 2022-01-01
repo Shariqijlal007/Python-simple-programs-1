@@ -3,3 +3,4 @@
 Enter the world's population: 6888 
 Enter the population of the US: 310 
 The population of the US is 4.5% of the world population.
+2. A program that asks how many miles you have driven and how many gallons of gasoline you have used and then reports the miles per gallon your car has gotten. The program can request distance in kilometers and petrol in liters and then report the result in liters per 100 kilometers.
