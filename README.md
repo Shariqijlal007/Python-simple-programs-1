@@ -32,3 +32,4 @@ big business
 gold business
 3.8%
 [Hint: Assuming also that you have assigned numbers to the account types starting with personal financial and ending with gold business]. Also give reason of why using switch statement is more appropriate in this problem.
+6. Display the table of a number entered by the user. The range will also be given by the user.
